@@ -1,0 +1,28 @@
+name: theta360
+favicon: null
+layout_spectrum: 0.7200378915295005
+typography_spectrum: 0.40442592836916447
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.14815948251634836
+  lightness: 0.21355273434892297
+  saturation: 0.18112525530159473
+  rhythmicContrast: 0.6986742848530412
+purpose: []
